@@ -1,1 +1,8 @@
 payload:
+  - DOMAIN,openwrt.org
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,jdbstatic.com
+  - DOMAIN-SUFFIX,ea.com
+  - DOMAIN-SUFFIX,origin.com
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,tnt-ea.com
