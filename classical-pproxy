@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,origin.com
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,tnt-ea.com
+  - DOMAIN-SUFFIX,ibb.co
