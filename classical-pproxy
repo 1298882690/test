@@ -21,3 +21,4 @@ payload:
   - DOMAIN-SUFFIX,izzy.zw.is
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,api.ipify.org
+  - DOMAIN-SUFFIX,steamcommunity.com
