@@ -19,3 +19,4 @@ payload:
   - DOMAIN-SUFFIX,kernel.org
   - DOMAIN-SUFFIX,apt.izzysoft.de
   - DOMAIN-SUFFIX,izzy.zw.is
+  - DOMAIN-SUFFIX,steamstatic.com
