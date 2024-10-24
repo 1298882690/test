@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN,openwrt.org
+  - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,javdb.com
   - DOMAIN-SUFFIX,jdbstatic.com
   - DOMAIN-SUFFIX,ea.com
