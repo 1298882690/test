@@ -1,2 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,store.steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
