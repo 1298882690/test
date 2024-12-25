@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,hk.np.stun.playstation.net
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,fast.com
+  - DOMAIN-SUFFIX,ncbi.nlm.nih.gov
