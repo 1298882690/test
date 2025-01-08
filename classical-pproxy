@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,ncbi.nlm.nih.gov
   - DOMAIN-SUFFIX,jdbstatic.com
   - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,discuss.logseq.com
