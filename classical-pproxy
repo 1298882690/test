@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,dmm.com
   - DOMAIN-SUFFIX,discuss.logseq.com
   - DOMAIN-SUFFIX,api.ipify.org
+  - DOMAIN-SUFFIX,githubusercontent.com
