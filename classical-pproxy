@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,cambridge.org
   - DOMAIN-SUFFIX,githubup.com
   - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,jellyfin.org
