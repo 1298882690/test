@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,githubup.com
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,jellyfin.org
+  - DOMAIN-SUFFIX,deepl.com
