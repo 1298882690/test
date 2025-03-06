@@ -1,1 +1,3 @@
-
+payload:
+  - DOMAIN-SUFFIX, bilibili.com
+  - DOMAIN-SUFFIX, youtube.com
