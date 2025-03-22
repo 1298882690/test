@@ -2,7 +2,7 @@ payload:
   - DOMAIN-SUFFIX,hutao.cloud
   - DOMAIN-SUFFIX,ebay.com
   - DOMAIN-KEYWORD,mypikpak
-  - DOMAIN-KEYWORD,jav
+  - DOMAIN-KEYWORD,feedly
   - DOMAIN-SUFFIX,hk.np.stun.playstation.net
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,fast.com
@@ -20,4 +20,3 @@ payload:
   - DOMAIN-SUFFIX,jellyfin.org
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,three.com.hk
-  - DOMAIN-SUFFIX,feedly.com
