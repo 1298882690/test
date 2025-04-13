@@ -21,3 +21,4 @@ payload:
   - DOMAIN-SUFFIX,jellyfin.org
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,three.com.hk
+  - DOMAIN-SUFFIX,2dfan.com
