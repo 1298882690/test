@@ -4,7 +4,6 @@ payload:
   - DOMAIN-KEYWORD,feedly
   - DOMAIN-SUFFIX,hutao.cloud
   - DOMAIN-SUFFIX,ebay.com
-  - DOMAIN-SUFFIX,hk.np.stun.playstation.net
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,ncbi.nlm.nih.gov
@@ -23,3 +22,4 @@ payload:
   - DOMAIN-SUFFIX,three.com.hk
   - DOMAIN-SUFFIX,2dfan.com
   - DOMAIN-SUFFIX,achost.top
+  - DOMAIN-SUFFIX,yugogo.xyz
