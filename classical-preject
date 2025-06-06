@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,tieba.baidu.com
   - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,bbs.nga.cn
