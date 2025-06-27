@@ -1,3 +1,4 @@
 payload:
     - DOMAIN-KEYWORD,bing
     - DOMAIN-KEYWORD,sciencedirect
+    - DOMAIN-SUFFIX,download.bazzite.gg
