@@ -2,5 +2,4 @@ payload:
   - DOMAIN-KEYWORD,bili
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,tieba.baidu.com
-  - DOMAIN-SUFFIX,bbs.nga.cn
   - DOMAIN-SUFFIX,weibo.com
