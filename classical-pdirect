@@ -6,4 +6,4 @@ payload:
     - DOMAIN-SUFFIX,assets.ign.com
     - DOMAIN-SUFFIX,ign.com.cn
     - DOMAIN-SUFFIX,mcx1d3t.icu
-    - DOMAIN-KEYWORD,srv.nintendo.net
+    - DOMAIN-SUFFIX,srv.nintendo.net
